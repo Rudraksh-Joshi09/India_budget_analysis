@@ -4,7 +4,7 @@ This Project Demonstrates The Full ETL Process from the Scrapping the Code to an
 :)  Follow the sequence:
 
 Step:1
-Downlaod all the pdf files for the budget from 2020 to 2026 
+Downlaod all the pdf files for the budget from 2020 to 2026
 Step:2
 Access the Budget_Analysis File which follows the extraction of the tables in the pdf.
 Step:3
